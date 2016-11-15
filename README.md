@@ -1,3 +1,6 @@
+
+พรพรรณ  เกิดรัตนื   57030201
+
 #ใบงานที่ 11
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (3)
 ## กล่าวนำ
@@ -14,11 +17,15 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
 
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-1.png?raw=true)
+
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
+
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-2.png?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
@@ -26,6 +33,8 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
+
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-3.png?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
@@ -43,6 +52,9 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
 
+
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-4.png?raw=true)
+
 ### การระบายสีด้วย Path Gradient Brush
 
 การระบายสีด้วย Path Gradient Brush เป็นการไล่เฉดสีตาม path ที่กำหนด ในโปรแกรมตัวอย่างนี้จะวาดวงรีและไล่เฉดสีจากด้านในออกสู่ด้านนอก
@@ -58,9 +70,12 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-5.png?raw=true)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+
+![](https://github.com/pronpan-08/LAB-11/blob/master/imgs/lab11-6.png?raw=true)
